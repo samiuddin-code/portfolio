@@ -21,7 +21,7 @@ const Home = () => {
             className="h1"
           >
             Transforming Ideas <br /> Into{" "}
-            <span className="text-accent">Digital Reality</span>
+            <span className="text-accent">SOFTWARE<br/> SOLUTIONS</span>
           </motion.h1>
 
           {/* subtitle */}
@@ -32,10 +32,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+           As a Full Stack I design and develop web and mobile applications using React, Node, Next, java and other technologies. I have over 6 years of experience in full stack development, and  creating responsive and interactive user interfaces that meet clients' needs and expectations.
           </motion.p>
 
           {/* btn */}

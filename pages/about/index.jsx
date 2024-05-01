@@ -38,21 +38,21 @@ export const aboutData = [
         ],
       },
       {
-        title: "UI/UX Design",
+        title: "FULLSTACK DEVLOPER",
         icons: [FaFigma, SiAdobexd, SiAdobephotoshop],
       },
     ],
   },
   {
-    title: "awards",
+    title: "PROJECTS",
     info: [
       {
-        title: "Webby Awards - Honoree",
-        stage: "2011 - 2012",
+        title: "BLPRO 8",
+        stage: "MAY-2023 - AUG-2023",
       },
       {
-        title: "Adobe Design Achievement Awards - Finalist",
-        stage: "2009 - 2010",
+        title: "YASEEL",
+        stage: "MAR-20024 - MAY-2024",
       },
     ],
   },
@@ -60,16 +60,20 @@ export const aboutData = [
     title: "experience",
     info: [
       {
-        title: "UX/UI Designer - XYZ Company",
-        stage: "2012 - 2023",
+        title: "FULLSTACK DEVLOPER - SOFTBUILDERS",
+        stage: "MAY-2023 - FEB-2024",
       },
       {
-        title: "Web Developer - ABC Agency",
-        stage: "2010 - 2012",
+        title: "FULLSTACK SOFTWARE DEVLOPER - HBL-MFB",
+        stage: "ARR-2022 - JAN-2012",
       },
       {
-        title: "Intern - DEF Corporation",
-        stage: "2008 - 2010",
+        title: "SOFTDEVLOPER - SONAZ (USA)",
+        stage: "2020 - 2022",
+      },
+      {
+        title: "SOFTDEVLOPER - WEBLOOP",
+        stage: "2018 - 2019",
       },
     ],
   },
@@ -77,17 +81,10 @@ export const aboutData = [
     title: "credentials",
     info: [
       {
-        title: "Web Development - ABC University, LA, CA",
-        stage: "2011",
+        title: " BACHELORS OF SOFTWARE ENGINEERING - SZABIST UNIVERSITY, ISB, PAK",
+        stage: "2021",
       },
-      {
-        title: "Computer Science Diploma - AV Technical Institute",
-        stage: "2009",
-      },
-      {
-        title: "Certified Graphic Designer - ABC Institute, Los Angeles, CA",
-        stage: "2006",
-      },
+      
     ],
   },
 ];
@@ -120,8 +117,8 @@ const About = () => {
             exit="hidden"
             className="h2"
           >
-            Captivating <span className="text-accent">stories</span> birth
-            magnificent designs.
+            Captivating <span className="text-accent">stories</span> WEB
+            DEVLOPEMENT.
           </motion.h2>
           <motion.p
             variants={fadeIn("right", 0.4)}
@@ -129,9 +126,8 @@ const About = () => {
             animate="show"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            10 years ago, I begin freelancing as a developer. Since then, I've
-            done remote work for agencies, consulted for startups, and
-            collabrated on digital products for business and consumer use.
+            7 years ago, I begin freelancing as a developer. Since then, I've
+            done remote work for agencies, and 6 years of handson experiences in the organizations
           </motion.p>
 
           {/* counters */}

@@ -3,11 +3,11 @@
   "version": "1.0.1",
   "private": true,
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "sami uddin",
+    "email": "samiuddinbirgoshi@gmail.com",
+    "url": "https://github.com/samiuddin-code"
   },
-  "description": "Ethan Smith is a Full-stack web developer with 10+ years of experience.",
+  "description": "sami uddin is a Full-stack web developer with 6+ years of experience.",
   "keywords": [
     "react",
     "next",
@@ -26,21 +26,21 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/modern-portfolio.git"
+    "url": "https://github.com/sami/modern-portfolio.git"
   },
-  "homepage": "https://github.com/sanidhyy/modern-portfolio#readme",
+  "homepage": "https://github.com/sami/modern-portfolio#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/modern-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/sami/modern-portfolio/issues",
+    "email": "samiuddinbirgoshi@gmail.com"
   },
   "funding": [
     {
       "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
+      "url": "https://www.patreon.com/sami"
     },
     {
       "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "url": "https://www.buymeacoffee.com/sami"
     }
   ],
   "scripts": {
@@ -52,7 +52,7 @@
   "dependencies": {
     "@next/font": "^13.4.4",
     "framer-motion": "^10.12.16",
-    "next": "13.4.3",
+    "next": "^13.5.6",
     "react": "18.2.0",
     "react-countup": "^6.4.2",
     "react-dom": "18.2.0",
